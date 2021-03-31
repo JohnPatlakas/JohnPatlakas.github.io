@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
+Hello, My name is John Patlakas and I am aspiring for a career in Data Science. I am a recent graduate of the Data Science diploma program at BrainStation where I learned programming languages such as SQL and Python. We were then able to implement our core foundation of Python into machine learning models. I have taken all the skills I have learned in this intense program and created this capstone project.  
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[john.patlakas@gmail.com](mailto:john.patlakas@gmail.com)
